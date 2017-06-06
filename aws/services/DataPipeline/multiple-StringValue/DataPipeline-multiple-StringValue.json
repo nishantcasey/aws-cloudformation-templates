@@ -22,11 +22,19 @@
               },
               {
                 "Key": "applications",
-                "StringValue": "['spark', 'hive', 'pig']"
+                "StringValue": "spark"
+              },
+              {
+                "Key": "applications",
+                "StringValue": "hive"
+              },
+              {
+                "Key": "applications",
+                "StringValue": "pig"
               },
               {
                 "Key": "type",
-                "StringValue": "EmrCluster",
+                "StringValue": "EmrCluster"
               },
               {
                 "Key": "configuration",
